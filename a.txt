@@ -1,3 +1,5 @@
 This is file a.
 
 I have now added a second line here.
+
+Now a third line.
